@@ -89,6 +89,17 @@
       <path value="$PROJECT_DIR$/www/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/www/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/www/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/www/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/www/vendor/maxmind/web-service-common" />
+      <path value="$PROJECT_DIR$/www/vendor/geoip2/geoip2" />
+      <path value="$PROJECT_DIR$/www/vendor/maxmind-db/reader" />
+      <path value="$PROJECT_DIR$/www/vendor/geoip/geoip" />
+      <path value="$PROJECT_DIR$/www/vendor/pragmarx/support" />
+      <path value="$PROJECT_DIR$/www/vendor/pragmarx/firewall" />
+      <path value="$PROJECT_DIR$/www/vendor/spatie/string" />
+      <path value="$PROJECT_DIR$/www/vendor/spatie/laravel-activitylog" />
+      <path value="$PROJECT_DIR$/www/vendor/anahkiasen/underscore-php" />
+      <path value="$PROJECT_DIR$/www/vendor/patchwork/utf8" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
